@@ -1,7 +1,7 @@
 # yelp_challenge
 
 ## Approach:
-    1. Find out what are the key topics/features that people talk about that is not present as a feature
+1. Find out what are the key topics/features that people talk about that is not present as a feature
         -   e.g: example what is recommended
         -   what sort of occassion it will be good for
         -   pet friendly?
