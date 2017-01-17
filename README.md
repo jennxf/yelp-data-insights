@@ -1,7 +1,6 @@
-# yelp_challenge
 
 ## Objective:
-Gather insights from yelp search result page and provide recommendations. 
+- Gather insights from yelp search result page and provide recommendations. 
 ----------------------------------------------------------
 ## Approach:
  -   rating over time
@@ -11,4 +10,4 @@ Gather insights from yelp search result page and provide recommendations.
  -  what do people most like or dislike about a place. quick summary.
 
 ## Current Yelp Search Result page:
-
+![alt text](screenshot_yelp.png "yelp search result page")
