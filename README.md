@@ -1,6 +1,6 @@
 
 ## Objective:
-  -   Gather insights from yelp search result page and provide recommendations.
+ -   Gather insights from yelp search result page and provide recommendations.
 ----------------------------------------------------------
 ## Approach:
  -   Rating over time
